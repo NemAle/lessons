@@ -9,3 +9,4 @@ def func2(x):
 
 print(func(10))
 print(func2(10))
+print("Hello")
